@@ -1,0 +1,12 @@
+Problem Statement
+  Appointment scheduling without a online aspect is difficult and leads to scheduling conflicts. 
+  Customers need an easy way to view what times are available without having to call the shop.
+  With an online appointment system, the barbers could focus more on cutting hair and less on scheduling appointments by phone, thereby increasing productivity.
+  This online system would allow customers to view available times and be able to book appointments by barber.
+  
+Assumptions
+  Scheduling appointments by phone during the work day reduces productivity.
+  There sometimes exists conflicts that result from the current scheduling method.
+  The clients of the business will understand the system and convert smoothly
+  The manager will keep the system updated with accurate times that each barber is working
+  
