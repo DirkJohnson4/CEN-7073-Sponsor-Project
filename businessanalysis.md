@@ -69,7 +69,7 @@ The system can planned to be retired when the systems it functions on are no lon
 
 # 7. Project Constraints
 
-The constraints of the project will be mostly the cost. The simplicity of the system will be thae main facotr of keeping costs low and keeping clients happy. The current method of scheduling is good enough to work until this new system is fully developed. 
+The constraints of the project will be mostly the cost. The simplicity of the system will be the main factor of keeping costs low and keeping clients happy. The current method of scheduling is good enough to work until this new system is fully developed. 
 
 # 8. Appendix
 
